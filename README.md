@@ -1,6 +1,7 @@
 <div align="center">
+  <img align="right" height="130" src="https://media.tenor.com/lCKwsD2OW1kAAAAj/happy-cat-happy-happy-cat.gif"  />
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FF00F6&center=true&vCenter=true&random=false&width=524&lines=%E2%8A%B9+Welcome+to+my+profile!+%CB%99%E1%B5%95%CB%99+%E2%8A%B9+" alt="Typing SVG">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FF00F6&center=true&vCenter=true&random=false&width=524&lines=%E2%8A%B9+Bem+Vindos!+%CB%99%E1%B5%95%CB%99+%E2%8A%B9+" alt="Typing SVG">
   </a>
 </div>
 
@@ -8,11 +9,11 @@
 
 #
 
-<p align="center">Meu nome é Maria Helena, sou formada em Análise e Desenvolvimento de Sistemas pela Unip através do Prouni, artista e aspirante a dev com ênfase em backend.
+<p align="center">Meu nome é Maria Helena, sou formada em Análise e Desenvolvimento de Sistemas pela Universidade UNIP através do Prouni. Sou artista, filomata e aspirante a dev com ênfase em backend.
 
 #
 ###
-
+## 📈 GitHub Stats
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=squarcinihelena&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://streak-stats.demolab.com?user=squarcinihelena&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
@@ -20,9 +21,8 @@
 
 ###
 
-<img align="right" height="130" src="https://media.tenor.com/lCKwsD2OW1kAAAAj/happy-cat-happy-happy-cat.gif"  />
-
 ###
+## 🛠 Skills and Technologies
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
@@ -41,7 +41,7 @@
 </div>
 
 ###
-
+## 📫 Get in Touch
 <div align="left">
   <a href="https://www.instagram.com/squarcinihelena/">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
