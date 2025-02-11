@@ -6,7 +6,7 @@ Sou **Maria Helena**, aspirante a desenvolvedora backend, com foco no desenvolvi
 - 🎓 **Graduada** em **Análise e Desenvolvimento de Sistemas**  
 - 💡 **Interesses**: **Java**, **Spring Boot**, **Arquitetura de Software**  
 - 📌 Atualmente, participando do **bootcamp Java Cloud Native DIO + Bradesco**  
-- 🌱 Buscando aprofundar meus conhecimentos em **SOLID**, **Design Patterns** e **Arquitetura Hexagonal**  
+- 🌱 Buscando aprofundar meus conhecimentos.
 
 ##  Estatísticas
 
