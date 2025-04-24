@@ -3,10 +3,10 @@
 Sou **Maria Helena**, aspirante a desenvolvedora backend, com foco no desenvolvimento de APIs e microsserviços escaláveis. Sou também artista e apaixonada por aprendizado contínuo.
 
 ##  Sobre mim  
-- 🎓 **Graduada** em **Análise e Desenvolvimento de Sistemas**  
-- 💡 **Interesses**: **Java**, **Spring Boot**, **Arquitetura de Software**  
-- 📌 Atualmente, participando do **bootcamp Java Fullstack Generation + Microsoft** & **bootcamp Java Cloud Native DIO + Bradesco**  
-- 🌱 Buscando aprofundar meus conhecimentos, "Ancora Imparo"!
+-  **Graduada** em **Análise e Desenvolvimento de Sistemas**  
+-  **Interesses**: **Java**, **Spring Boot**, **Arquitetura de Software**  
+-  Atualmente, participando do **bootcamp Java Fullstack Generation + Microsoft** 
+-  Buscando aprofundar meus conhecimentos, "Ancora Imparo"!
 
 ##  Estatísticas
 
