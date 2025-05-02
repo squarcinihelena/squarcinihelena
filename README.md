@@ -26,7 +26,6 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=squarcinihelena&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=great-gatsby&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=squarcinihelena&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=great-gatsby&hide_border=true&order=2" height="150" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=squarcinihelena&locale=en&mode=daily&theme=great-gatsby&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
@@ -66,7 +65,12 @@
 </div>
 
 ###
-<div align="right">
+
+<h2 align="left">Find Me</h2>
+
+###
+
+<div align="left">
   <a href="https://www.linkedin.com/in/maria-helena-squarcini-5319ba206/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=&labelColor=&style=for-the-badge" height="24" alt="linkedin logo"  />
   </a>
@@ -77,13 +81,27 @@
 
 ###
 
+<h2 align="left"></h2>
 
-## Activity 
+###
+
+<img align="right" height="194" src="https://i.gifer.com/1Dv5.gif"  />
+
+###
+
+<div align="center">
+  <a href="https://open.spotify.com/user/22xwvaprb7b2krxuk5a2bnqzq">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=22xwvaprb7b2krxuk5a2bnqzq&count=2&unique=true" alt="Spotify recently played"  />
+  </a>
+</div>
+
+###
+
+## 
 
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/squarcinihelena/squarcinihelena/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/squarcinihelena/squarcinihelena/output/github-contribution-grid-snake-dark.svg">
   <img align="center" alt="Animação da Grade de Contribuições do GitHub" src="https://raw.githubusercontent.com/squarcinihelena/squarcinihelena/output/github-contribution-grid-snake.svg">
 </picture>
-
 
