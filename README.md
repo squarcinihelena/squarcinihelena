@@ -6,7 +6,7 @@
 
 ###
 
-<h4 align="left">My name is Maria Helena, I am an aspiring backend developer focused on building scalable APIs and microservices. I am also an artist and passionate about continuous learning. I believe in the power of connecting different fields and expanding knowledge beyond boundaries.<br><br>"To develop a complete mind: study the science of art; study the art of science. Develop your senses — especially learn how to see. Realize that everything connects to everything else." - Leonardo da Vinci</h4>
+<h4 align="left">My name is Maria Helena, I am an aspiring backend developer focused on building scalable APIs and microservices. I am also an artist and passionate about continuous learning. I believe in the power of connecting different fields and expanding knowledge beyond boundaries.<br><br>"Study the science of art; study the art of science. Develop your senses — especially learn how to see. Realize that everything connects to everything else." - Leonardo da Vinci</h4>
 
 ###
 
