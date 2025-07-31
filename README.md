@@ -16,7 +16,7 @@
 
 ###
 
-<p align="left">- Graduate in Systems Analysis and Development<br>- Interests: Java, Spring Boot, Data Structures, Software Architecture<br>- Currently participating in the Java Fullstack Bootcamp by Generation + Microsoft<br>- Always looking to deepen my knowledge — Ancora Imparo!"</p>
+<p align="left">- Graduate in Systems Analysis and Development<br>- Interests: Java, Spring Boot, Data Structures, Software Architecture, LeetCode<br>- Currently participating in the Java Fullstack Bootcamp by Generation + Microsoft<br>- Always looking to deepen my knowledge — Ancora Imparo!"</p>
 
 ###
 ###
