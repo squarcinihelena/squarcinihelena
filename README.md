@@ -1,10 +1,4 @@
-<h1 align="left">Hello!</h1>
-
-###
-
-<img align="right" height="147" src="https://i.gifer.com/Ocdc.gif"  />
-
-###
+<h1 align="left">Hey! ッ </h1>
 
 <h4 align="left">My name is Maria Helena, I am an aspiring backend developer focused on building scalable APIs and microservices. I am also an artist and passionate about continuous learning. I believe in the power of connecting different fields and expanding knowledge beyond boundaries.<br><br>"Study the science of art; study the art of science. Develop your senses — especially learn how to see. Realize that everything connects to everything else." - Leonardo da Vinci</h4>
 
@@ -13,8 +7,6 @@
 <br clear="both">
 
 <h2 align="left">About Me</h2>
-
-###
 
 <p align="left">- Graduate in Systems Analysis and Development<br>- Interests: Java, Spring Boot, Data Structures, Software Architecture, LeetCode<br>- Currently participating in the Java Fullstack Bootcamp by Generation + Microsoft<br>- Always looking to deepen my knowledge — Ancora Imparo!"</p>
 
