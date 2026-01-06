@@ -12,7 +12,6 @@
   - Graduate in Systems Analysis and Development<br>
   - Interests: Java, Spring Boot, Data Structures, Software Architecture, LeetCode<br>
   - Recently completed the intensive bootcamp Java Fullstack - Generation + Microsoft (450+ hours).<br>
-  - Currently participating in the Code Girls program for AWS certification, with support from First and Santander.<br>
   - Always looking to deepen my knowledge - Ancora Imparo!
 </p>
 
