@@ -1,6 +1,6 @@
 <h1 align="left">Hey! ッ </h1>
 
-<h4 align="left">My name is Maria Helena, I am an aspiring backend developer focused on building scalable APIs and microservices. I am also an artist and passionate about continuous learning. I believe in the power of connecting different fields and expanding knowledge beyond boundaries.<br><br>"Study the science of art; study the art of science. Develop your senses — especially learn how to see. Realize that everything connects to everything else." - Leonardo da Vinci</h4>
+<h4 align="left">My name is Maria Helena, I am an aspiring backend developer focused on building scalable APIs and microservices. I am also an artist and passionate about continuous learning. I believe in the power of connecting different fields and expanding knowledge beyond boundaries.<br><br>"Study the science of art; study the art of science. Develop your senses, especially learn how to see. Realize that everything connects to everything else." - Leonardo da Vinci</h4>
 
 ###
 
@@ -50,21 +50,13 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=idea" height="40" alt="intellijidea logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=eclipse" height="40" alt="eclipseide logo"  />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=blender" height="40" alt="blender logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=cs" height="40" alt="csharp logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
   <img width="12" />
