@@ -23,8 +23,8 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=squarcinihelena&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=great-gatsby&hide_border=true&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=squarcinihelena&locale=en&mode=daily&theme=great-gatsby&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://raw.githubusercontent.com/squarcinihelena/squarcinihelena/stats-output/stats.svg" height="150" alt="stats graph"  />
+  <img src="https://raw.githubusercontent.com/squarcinihelena/squarcinihelena/languages-output/languages.svg" height="145" alt="languages graph"  />
 </div>
 
 ###
